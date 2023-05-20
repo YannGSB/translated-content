@@ -9,7 +9,7 @@ Um atributo sempre tem a forma `nome=valor` (especificando o identificador do at
 
 Exemplo:
 
-\<div id="principal" class="principal"> Neste cado o `id` e `class` são o atributo e o nome pricipal o valor.
+\<div id="principal" class="principal"> Neste cado o `id` e `class` são o atributo e o nome principal o valor.
 
 ## Aprenda mais
 
